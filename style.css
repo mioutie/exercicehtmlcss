@@ -1,0 +1,43 @@
+/* Exercice 1 */
+li{
+    font-size: 25px;
+    list-style: none;
+    line-height: 50px;
+}
+
+.N{
+    color: black;
+}
+.R{
+    color: red;
+}
+.B{
+    color: blue;
+}
+/* Exercice 2 */
+#orange{
+    border: 2px solid;
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
+}
+#rouge{
+    border:2px solid;
+    margin: 5px;
+    border-radius: 10px;
+}
+#parent{
+    border:2px solid;
+    height: 500px;
+    background-color: yellow;
+    border-radius: 15px;
+}
+p{
+    background-color: gray;
+}
+
+/* Exercice 3 */
+.A{
+    border: 1px solid;
+    background: none;
+}
